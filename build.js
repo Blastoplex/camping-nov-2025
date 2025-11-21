@@ -61,8 +61,6 @@ title: Camping November 2025
 
 # 🏕️ Camping November 2025
 
-Welcome to our epic camping trip planning site! Use the navigation above to explore different sections.
-
 ## Quick Links
 
 - [Schedule](schedule.html) - Who's coming when
@@ -71,7 +69,7 @@ Welcome to our epic camping trip planning site! Use the navigation above to expl
 - [Packing](packing.html) - What to bring
 - [Activities](activities.html) - Fun stuff to do
 
-Have an awesome trip everyone! 🔥🌲🎣
+🔥🌲🎣
 `;
 
 fs.writeFileSync(path.join(dataDir, 'index.md'), indexContent);
