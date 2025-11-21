@@ -32,6 +32,7 @@ title: Shopping list - Abail
 - [ ] Paper plates
 - [ ] Coffee
 - [ ] Long life milk
+- [ ] Apple juice
 
 ## For andrew:
 
