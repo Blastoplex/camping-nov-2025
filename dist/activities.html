@@ -136,18 +136,28 @@
             }
             
             nav {
-                padding: 0.5rem;
-                text-align: left;
+                padding: 0.75rem;
+                text-align: center;
+                overflow-x: auto;
+                white-space: nowrap;
             }
             
             nav a {
                 display: inline-block;
-                padding: 0.5rem 0.75rem;
-                margin: 0.25rem 0.25rem 0.25rem 0;
-                background-color: #f0f7f0;
-                border-radius: 6px;
-                font-size: 0.9em;
+                padding: 0.4rem 0.8rem;
+                margin: 0 0.3rem;
+                background: none;
+                border: 1px solid #4a7c59;
+                border-radius: 20px;
+                font-size: 0.85em;
+                color: #4a7c59;
                 white-space: nowrap;
+                transition: all 0.3s;
+            }
+            
+            nav a:hover {
+                background-color: #4a7c59;
+                color: white;
             }
             
             main {
@@ -187,11 +197,19 @@
                 line-height: 1.2;
             }
             
-            nav a {
-                display: block;
-                width: 100%;
-                margin: 0.25rem 0;
+            nav {
                 text-align: center;
+                padding: 0.5rem;
+                white-space: normal;
+            }
+            
+            nav a {
+                display: inline-block;
+                margin: 0.2rem;
+                padding: 0.5rem 1rem;
+                border-radius: 25px;
+                font-size: 0.9em;
+                min-width: auto;
             }
             
             table {
@@ -227,7 +245,7 @@
     </header>
     
     <nav>
-        <a href="activities.html">Activities</a> | <a href="index.html">Index</a> | <a href="location.html">Location</a> | <a href="meals.html">Meals</a> | <a href="packing.html">Packing</a> | <a href="schedule.html">Schedule</a> | <a href="shopping.html">Shopping</a>
+        <a href="activities.html">Activities</a> | <a href="location.html">Location</a> | <a href="meals.html">Meals</a> | <a href="packing.html">Packing</a> | <a href="schedule.html">Schedule</a> | <a href="shopping.html">Shopping</a>
     </nav>
     
     <main>
@@ -243,6 +261,7 @@
 <li>Frisbee</li>
 <li>Football</li>
 <li>Ryan&#39;s disk game thing</li>
+<li>Chopping wood</li>
 </ul>
 
         <div class="edit-section">

@@ -42,7 +42,7 @@ function renderMarkdownFile(filePath, outputPath) {
 
 // Generate navigation menu
 function generateNavigation() {
-  const dataFiles = fs.readdirSync(dataDir).filter(file => file.endsWith('.md'));
+  const dataFiles = fs.readdirSync(dataDir).filter(file => file.endsWith('.md') && file !== 'index.md');
   const navItems = dataFiles.map(file => {
     const name = path.basename(file, '.md');
     const displayName = name.charAt(0).toUpperCase() + name.slice(1);
