@@ -4,32 +4,25 @@ title: Who + when
 
 # Who + when
 
-## Saturday 23/11/2025
+## Sunday 23/11/2025
 - Daniel
 
-## Sunday 24/11/2025  
+## Monday 24/11/2025  
 - Daniel
 
-## Monday 25/11/2025
-- Daniel
-- Jesse
-
-## Tuesday 26/11/2025
+## Tuesday 25/11/2025
 - Daniel
 - Jesse
-- Andrew
-- _Jackson_
+- Trailer
 
-## Wednesday 27/11/2025
+## Wednesday 26/11/2025
 - Daniel
 - Jesse
 - Andrew
 - _Jackson_
-- Caitlin
-- Ryan
-- Charles
+- Trailer
 
-## Thursday 28/11/2025
+## Thursday 27/11/2025
 - Daniel
 - Jesse
 - Andrew
@@ -37,13 +30,25 @@ title: Who + when
 - Caitlin
 - Ryan
 - Charles
+- Trailer
 
-## Friday 29/11/2025
+## Friday 28/11/2025
 - Daniel
 - Jesse
 - Andrew
 - _Jackson_
+- Caitlin
+- Ryan
+- Charles
+- Trailer
 
-## Saturday 30/11/2025
+## Saturday 29/11/2025
+- Daniel
+- Jesse
+- Andrew
+- _Jackson_
+- Trailer
+
+## Sunday 30/11/2025
 - Daniel
 - Jesse
