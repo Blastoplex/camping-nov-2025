@@ -14,3 +14,4 @@ title: Activities
 * Frisbee
 * Football
 * Ryan's disk game thing
+* Chopping wood
