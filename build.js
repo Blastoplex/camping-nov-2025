@@ -24,7 +24,7 @@ function renderMarkdownFile(filePath, outputPath) {
   
   const title = parsed.attributes.title || path.basename(filePath, '.md');
   const fileName = path.basename(filePath);
-  const editUrl = `https://github.com/YOUR_USERNAME/camping-nov-2025/edit/main/data/${fileName}`;
+  const editUrl = `https://github.com/Blastoplex/camping-nov-2025/edit/main/data/${fileName}`;
   
   const editButton = `<div class="edit-section">
             <a href="${editUrl}" class="edit-btn" target="_blank">📝 Edit on GitHub</a>
