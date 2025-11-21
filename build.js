@@ -48,7 +48,7 @@ function generateNavigation() {
     const displayName = name.charAt(0).toUpperCase() + name.slice(1);
     return `<a href="${name}.html">${displayName}</a>`;
   });
-  return navItems.join(' | ');
+  return navItems.join(' ');
 }
 
 // Build all markdown files

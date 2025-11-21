@@ -4,6 +4,46 @@ title: Who + when
 
 # Who + when
 
-| 11/23/2025 | 11/24/2025 | 11/25/2025 | 11/26/2025 | 11/27/2025 | 11/28/2025 | 11/29/2025 | 11/30/2025 |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| Daniel | Daniel | Daniel Jesse | Daniel Jesse Andrew _Jackson_ | Daniel Jesse Andrew _Jackson_ Caitlin Ryan Charles | Daniel Jesse Andrew _Jackson_ Caitlin Ryan Charles | Daniel Jesse Andrew _Jackson_ | Daniel Jesse |
+## Saturday 23/11/2025
+- Daniel
+
+## Sunday 24/11/2025  
+- Daniel
+
+## Monday 25/11/2025
+- Daniel
+- Jesse
+
+## Tuesday 26/11/2025
+- Daniel
+- Jesse
+- Andrew
+- _Jackson_
+
+## Wednesday 27/11/2025
+- Daniel
+- Jesse
+- Andrew
+- _Jackson_
+- Caitlin
+- Ryan
+- Charles
+
+## Thursday 28/11/2025
+- Daniel
+- Jesse
+- Andrew
+- _Jackson_
+- Caitlin
+- Ryan
+- Charles
+
+## Friday 29/11/2025
+- Daniel
+- Jesse
+- Andrew
+- _Jackson_
+
+## Saturday 30/11/2025
+- Daniel
+- Jesse
