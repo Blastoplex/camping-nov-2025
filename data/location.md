@@ -2,9 +2,16 @@
 title: Location
 ---
 
-# Location
+# New location
 
-## Kirby's
+## past kirbys
+
+** [Google maps link](https://maps.app.goo.gl/u9wLe94KUxvkeKQg8?g_st=ipc)
+
+
+## Previous location
+
+### Kirby's
 
 **View on Google Maps:** [Kirby's Camping Spot](https://www.google.com/maps/place/Kirby's/@-37.1578457,145.9915215,17z/data=!3m1!4b1!4m6!3m5!1s0x6b27db41e16485e9:0x2ccd6a118540baee!8m2!3d-37.1578457!4d145.9915215!16s%2Fg%2F11vhqvpz25?entry=ttu&g_ep=EgoyMDI1MTExNy4wIKXMDSoASAFQAw%3D%3D)
 
