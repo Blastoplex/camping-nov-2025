@@ -6,36 +6,34 @@ title: Shopping list - Abail
 
 ## Comunal food
 
-- [ ] Schnitzels (atleast 5)
-- [ ] Wraps (Pack of at least 5)
-- [ ] Bag of salad leaves (large)
-- [ ] 3 tomatoes
-- [ ] Cheese slices
-- [ ] BBQ snags pack of 10 at least probs more
-- [ ] BBQ burger pack of atleast 5
-- [ ] 2 loaves of bread (bbq + breakies) 
-- [ ] 12+ rolls (bbq + breakies) 
-- [ ] 6 spuds
-- [ ] At Least 1.5kg of bacon - probably more though 2?
-- [ ] 24 Egg
-- [ ] 3 bottles of pancake mix
-- [ ] 2x 12 pack of up and go
-
-- [ ] Sauces: Mustard + bbq + tomato
-- [ ] Bin bags
-- [ ] Paper towel
-- [ ] Toilet paper
-- [ ] Bug spray
-- [ ] Marshmallows
-- [ ] Chips
-- [ ] Bag o lollies
-- [ ] Paper plates
-- [ ] Coffee
-- [ ] Long life milk
-- [ ] Apple juice
-
-## For andrew:
-
-- [ ] Fruit
-- [ ] Slab of fizzy water
-- [ ] Slab of alcohol
+- [x] Schnitzels (atleast 5)
+- [x]  Wraps (Pack of at least 5)
+- [x]  Bag of salad leaves (large)
+- [x]  3 tomatoes
+- [x]  Cheese slices
+- [x]  BBQ snags pack of 10 at least probs more (24)
+- [x] 5 steaks
+- [x]  2 loaves of bread (bbq + breakies)
+- [ ]  12+ rolls (bbq + breakies)
+- [x]  6 spuds
+- [x]  At Least 1.5 of bacon - probably more though - i bought 3?
+- [ ]  24 Egg
+- [x]  3 bottles of pancake mix
+- [x]  2x 12 pack of up and go
+- [x]  Sauces: Mustard + bbq + tomato
+- [x] Toilet paper
+- [x] Bin bags
+- [x] Paper towel
+- [x] Bug spray
+- [x] Baby wipes
+- [x]  Marshmallows
+- [x]  Chips
+- [x]  Bag o lollies
+- [x]  Paper plates
+- [x]  Coffee
+- [x]  Long life milk
+- [x]  Apple juice
+For andrew:
+- [x]  Fruit
+- [ ]  Slab of fizzy water
+- [x]  Slab of alcohol
